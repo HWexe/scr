@@ -1,0 +1,2 @@
+script_key="ZLEauTMMheUSDfvVNOL4Q3x8z6dsQj0o";
+loadstring(game:HttpGet("https://api.uselime.net/loader.lua"))()
